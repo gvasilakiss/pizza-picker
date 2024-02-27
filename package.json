@@ -1,0 +1,30 @@
+{
+  "name": "pizza-picker",
+  "version": "1.0.0",
+  "description": "Get pizza recommendations if you don't know what pizza to order or to make.",
+  "main": "PizzaSelector.js",
+  "scripts": {
+    "start": "node PizzaSelector.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gvasilakiss/pizza-picker.git"
+  },
+  "keywords": [
+    "pizza",
+    "what-pizza",
+    "pizza recipe",
+    "order pizza",
+    "pizza recommendation",
+    "pizza suggestions",
+    "pizza ideas"
+  ],
+  "author": "George Vasilakis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvasilakiss/pizza-picker/issues"
+  },
+  "homepage": "https://github.com/gvasilakiss/pizza-picker#readme",
+  "dependencies": {}
+}
