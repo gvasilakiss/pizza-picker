@@ -1,6 +1,6 @@
 {
   "name": "pizza-picker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get pizza recommendations if you don't know what pizza to order or to make.",
   "main": "PizzaSelector.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "order pizza",
     "pizza recommendation",
     "pizza suggestions",
-    "pizza ideas"
+    "pizza ideas",
+    "pizza picker",
+    "pizza selector"
   ],
   "author": "George Vasilakis",
   "license": "MIT",
